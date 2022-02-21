@@ -7,3 +7,4 @@ React Router DOM
 1. Path Variable = useParams
 2. Query String = useSerachParams
 3. Page Moving = useNavigate
+   ㄴㅇㅁㄹㅇㄴㅁㄹ
