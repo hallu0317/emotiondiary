@@ -7,4 +7,13 @@ React Router DOM
 1. Path Variable = useParams
 2. Query String = useSerachParams
 3. Page Moving = useNavigate
-   ㄴㅇㅁㄹㅇㄴㅁㄹ
+
+Google Web Font
+
+- 원하는 폰트 적용 (상업적 사용 X)
+
+justify-content: center
+
+- 가로축
+  align-items: center;
+- 세로축
