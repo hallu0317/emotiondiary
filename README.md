@@ -17,4 +17,6 @@ justify-content: center
 - 가로축
   align-items: center;
 - 세로축
+
+
 ![캡처](https://user-images.githubusercontent.com/76871198/155888998-f56fa82e-6e6f-471a-9f24-6dabcb8b3035.PNG)
