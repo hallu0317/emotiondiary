@@ -20,3 +20,5 @@ justify-content: center
 
 
 ![캡처](https://user-images.githubusercontent.com/76871198/155888998-f56fa82e-6e6f-471a-9f24-6dabcb8b3035.PNG)
+
+https://krapi.teamblind.com/auth/web/email?k=8Oer1M3xm3ZJ35GeYIcilh0iM66z0Bbc1NUTwPgTftre1vPmX4j7NKI5MiR7upFog5c76q&lang=ko
